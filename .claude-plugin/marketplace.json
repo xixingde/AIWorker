@@ -1,0 +1,14 @@
+{
+  "name": "ai-worker",
+  "description": "AI 开发规范与工作流 Plugin 集合",
+  "owner": { "name": "Strict", "email": "" },
+  "plugins": [
+    {
+      "name": "spec-developer",
+      "description": "AI 驱动的端到端开发工作流：需求分析、系统需求、设计、编码、测试、部署",
+      "version": "4.1.23",
+      "source": "./",
+      "author": { "name": "Strict" }
+    }
+  ]
+}
